@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0051229-ebe9-40a2-8d31-a82842262261" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SliderPuzzleFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SliderPuzzlePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SliderPuzzleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SliderPuzzleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SliderPuzzleFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SliderPuzzleFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +71,10 @@
       <updated>1701023463142</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="misc.xml in local computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="misc.xml in local computer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
